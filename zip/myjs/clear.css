@@ -1,0 +1,41 @@
+*{
+    /* background-color: #000; */
+}
+.container{
+    text-align: center;
+}
+.container input{
+    padding: 8px;
+    width: 8%;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid blueviolet;
+}
+div{
+   
+    /* color: white;  */
+}
+
+#red{
+    padding: 20px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    border: none;
+}
+#yellow{
+    padding: 20px;
+    background-color: yellow;
+    color: white;
+    font-size: 12px;
+    border: none;
+}
+#green{
+    padding: 20px;
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    border: none;
+}
